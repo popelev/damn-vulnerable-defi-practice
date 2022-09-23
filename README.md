@@ -4,10 +4,10 @@ Done:
 `+	Truster`  
 `+	Side entrance`  
 `+	The rewarder`  
+`+	Unstoppable`  
+`+	Selfie`  
   
 Not yet:  
-`-	Unstoppable`  
-`-	Selfie`  
 `-	Compromised`  
 `-	Puppet`  
 `-	Puppet v2`  
